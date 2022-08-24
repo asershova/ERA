@@ -2,7 +2,7 @@
 layout: default
 title: About
 ---
-# About page
+# About ERA
 
 What is the problem/issue being addressed?
 Bacterial gene expression regulation allows bacteria to adapt to environmental changes. The primary and most well-studied mechanism of gene expression regulation is the interaction of specific proteins, called transcription factors, with DNA. DNA methylation can alter the affinity of transcription factors to their target sites, and, as a result, modulate gene expression. The impact of DNA methylation is global and affects different aspects of bacterial physiology. However, the functional mechanisms of the methylation effect on gene expression are unclear. DNA is methylated by specific proteins, called DNA methyltransferases. These proteins can be a part of bacterial Restriction-Modification (R-M) systems where they are used to differentiate methylated host DNA from unmethylated foreign DNA. In this project, ERA, the Fellow investigated the role of methylation in Acinetobacter baumannii. The understanding of regulatory networks in these bacteria is essential for the development of new drugs and the understanding of the mechanisms of antibiotic resistance. 
