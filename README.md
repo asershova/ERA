@@ -2,8 +2,9 @@
 The site of my MSCA Epigenetic regulation of Acinetobacter baumannii (ERA) project
 
 One more line
-
-[Test subpage](/subpage.md)
+<nav>
+      [Test subpage](/subpage.md)
+</nav>
 
 Test image:
 
