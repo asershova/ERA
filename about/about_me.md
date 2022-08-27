@@ -7,7 +7,9 @@ title: About me
 <img src="Anna.jpg" alt="">
 <p>
 My name is Anna Ershova. I got my PhD in bioinformatics in 2016 at Lomonosov Moscow State University (Russia).
-I am interested in using bioinformatics and wet-lab methods to identify and solve biologically meaningful problems. I have published 15 research articles.
+I am interested in using bioinformatics and wet-lab methods to identify and solve biologically meaningful problems. I have published 15 research articles. My LinkedIn profile is <a href="https://www.linkedin.com/in/anna-ershova-312904ab/">here</a>.
+</p>
+<p>
 In 2020, I got a Marie Skłodowska Curie Individual Fellowship to study epigenetic regulation in <i>Acinetobacter baumannii</i> and
 joined Dr. Carsten Kröger's Lab in the Department of Microbiology, School of Genetics and Microbiology, Trinity College Dublin.
 It was absolutely fantastic two-years journey, with many ups and downs, meeting new eukaryotic and prokaryotic friends.
