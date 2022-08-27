@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About
+title: About the ERA project
 ---
 <h1> About ERA</h1>
 
